@@ -5,6 +5,8 @@ practitioners. Product pattern modeled on
 [learnGitBranching](https://github.com/pcottle/learnGitBranching): command
 surface + live visualization + levels + golf.
 
+**Live:** https://alisadeghiaghili.github.io/learn-mlstats/
+
 ## Why
 
 Working statistical intuition beats memorizing tests. This app makes sampling,
